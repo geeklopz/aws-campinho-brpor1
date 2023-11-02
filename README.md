@@ -1,2 +1,6 @@
 # aws-campinho-brpor1
 Labs do curso de Python BRPOR1 AWS Campinho
+
+### EDITANDO O ARQUIVO PELO COMPUTADOR
+### FAZENDO COMMIT VIA TERMINAL
+### USANDO COMANDOS DO GIT
